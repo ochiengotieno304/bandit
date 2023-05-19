@@ -23,3 +23,13 @@
 - `ls` to view directory content
 - `cat` to view file content
 - accessing dashed filenames
+
+## Bandit 3
+
+![alt text](images/bandit3.png "bandit1")
+
+- `ssh` server login
+- `cd` to change directory
+- `ls -a` to view hidden directory content
+- `cat` to view file content
+- accessing dashed filenames
