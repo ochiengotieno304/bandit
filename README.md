@@ -17,7 +17,7 @@
 
 ## Bandit 2
 
-![alt text](images/bandit2.png "bandit1")
+![alt text](images/bandit2.png "bandit2")
 
 - `ssh` server login
 - `ls` to view directory content
@@ -26,10 +26,18 @@
 
 ## Bandit 3
 
-![alt text](images/bandit3.png "bandit1")
+![alt text](images/bandit3.png "bandit3")
 
 - `ssh` server login
 - `cd` to change directory
 - `ls -a` to view hidden directory content
 - `cat` to view file content
-- accessing dashed filenames
+
+## Bandit 4
+
+![alt text](images/bandit4.png "bandit4")
+
+- `ssh` server login
+- `cd` to change directory
+- `ls -a` to view hidden directory content
+- `cat <path>/-filename` view dashed filenames
