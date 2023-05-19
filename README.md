@@ -7,9 +7,19 @@
 - ssh server login with port specification
 - syntax `ssh <username>@<host> -p <port>`
 
+## Bandit 1
+
+![alt text](images/bandit1.png "bandit1")
+
+- `ssh` server login
+- `ls` to view directory content
+- `cat` to view file content
+
 ## Bandit 2
 
-![alt text](bandit1.png "bandit1")
+![alt text](images/bandit2.png "bandit1")
 
-- explanation
-- explanation 2
+- `ssh` server login
+- `ls` to view directory content
+- `cat` to view file content
+- accessing dashed filenames
