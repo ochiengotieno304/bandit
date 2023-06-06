@@ -70,3 +70,12 @@
 - `ssh` server login
 - `grep` print lines that match patterns
 - `grep data.txt | grep millionth`
+
+## Bandit 8
+
+![alt text](images/bandit8.png "bandit8")
+
+- `ssh` server login
+- `sort` sort lines of text files
+- `uniq` report or omit repeated lines
+- `sort data.txt  | uniq -u`
