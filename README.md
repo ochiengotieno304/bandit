@@ -88,3 +88,11 @@
 - `strings` print the sequences of printable characters in files
 - `grep` print lines that match patterns
 - `strings data.txt | grep ===`
+
+## Bandit 10
+
+![alt text](images/bandit10.png "bandit10")
+
+- `ssh` server login
+- `base64` base64 encode/decode data and print to standard output
+- `base64 -d data.txt`
