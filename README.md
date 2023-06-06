@@ -62,3 +62,11 @@
 - `find` search for files in a directory hierarchy
 - `ls` list directory content
 - `find -type f -size 33c -exec ls -l {} + | grep -E 'bandit6|bandit7'`
+
+## Bandit 7
+
+![alt text](images/bandit7.png "bandit7")
+
+- `ssh` server login
+- `grep` print lines that match patterns
+- `grep data.txt | grep millionth`
