@@ -96,3 +96,13 @@
 - `ssh` server login
 - `base64` base64 encode/decode data and print to standard output
 - `base64 -d data.txt`
+
+## Bandit 11
+
+![alt text](images/bandit11.png "bandit11")
+
+- `ssh` server login
+
+```python
+  import codecs
+  print(codecs.decode('Gur cnffjbeq vf WIAOOSFzMjXXBC0KoSKBbJ8puQm5lIEi', 'rot13'))
