@@ -79,3 +79,12 @@
 - `sort` sort lines of text files
 - `uniq` report or omit repeated lines
 - `sort data.txt  | uniq -u`
+
+## Bandit 9
+
+![alt text](images/bandit9.png "bandit9")
+
+- `ssh` server login
+- `strings` print the sequences of printable characters in files
+- `grep` print lines that match patterns
+- `strings data.txt | grep ===`
